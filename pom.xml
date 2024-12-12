@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.projectpss</groupId>
-    <artifactId>Project_PSS</artifactId>
+    <artifactId>Project_PSS_BE</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Project_PSS</name>
-    <description>Project_PSS</description>
+    <name>Project_PSS_BE</name>
+    <description>Project_PSS_BackEnd</description>
     <url/>
     <licenses>
         <license/>

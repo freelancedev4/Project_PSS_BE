@@ -1,4 +1,4 @@
-package com.projectpss.project_pss;
+package com.projectpss.project_pss_be;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

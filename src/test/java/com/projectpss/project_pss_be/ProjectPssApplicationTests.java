@@ -1,4 +1,4 @@
-package com.projectpss.project_pss;
+package com.projectpss.project_pss_be;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
